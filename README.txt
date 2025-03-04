@@ -1,0 +1,1 @@
+Para ejecutar el programa debe correr el archivo de python
